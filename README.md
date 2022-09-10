@@ -5,7 +5,7 @@ JS and Java programmer. Mindustry modder for a measly amount of two years. Just 
 
 **Bonus:**
 
--Currently developing Mindustry mods, such as Flar Expansion and Erekir Expansion.
+-The recent public Mindustry mods that I've developed are Mindustry Lighting (sorry if the repository had a different name), and Erekir Expansion.
 
 
 
