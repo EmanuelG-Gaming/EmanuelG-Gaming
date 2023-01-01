@@ -1,7 +1,7 @@
 ### ***Emanuel G or Antumbra***
 
 ### Basic information
-JS and Java programmer. Mindustry modder for a measly amount of two years. Just see the pinned repositories below for some fun.
+JS and Java programmer. Mindustry modder for a measly amount of two years. Developed some C++ games with the SDL2 engine. See the pinned repositories below.
 
 **Bonus:**
 
