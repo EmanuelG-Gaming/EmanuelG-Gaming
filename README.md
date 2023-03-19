@@ -1,7 +1,7 @@
 ### ***Emanuel G or Antumbra***
 
 ### Basic information
-JS and Java programmer. Mindustry modder for a measly amount of two years. Developed some C++ games with the SDL2 engine. See the pinned repositories below.
+Programmer, Mindustry modder. Developed some C++ games with the SDL2 engine. See the pinned repositories below.
 
 **Bonus:**
 
