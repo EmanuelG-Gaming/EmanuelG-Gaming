@@ -1,11 +1,3 @@
-### ***Emanuel G or Antumbra***
+Currently making a game engine called *Icosahedron*.
 
-### Basic information
-Programmer, Mindustry modder. Developed some C++ games with the SDL2 engine. See the pinned repositories below.
-
-**Bonus:**
-
--The recent public Mindustry mods that I've developed are Mindustry Lighting (sorry if the repository had a different name), and Erekir Expansion.
-
-
-
+No need to put those "Oh wow, but, consequently, it's the latest and most popular thing in the topic of web development/game development/AI development 🤓".
