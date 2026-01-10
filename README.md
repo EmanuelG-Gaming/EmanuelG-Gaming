@@ -1,19 +1,4 @@
-# Expertise
-## Small:
-- GANOO slash Loonix ("actually its GANOO Plus Loonix🤓👆")
-- Java
-- JS
-- Vim
-- VSCode
-- Eclipse IDE for Java
-- Networking
-- Video editing via Kdenlive
-- Web pages
-- Manim (a program made for creating math animations)
+So I am a 17-year old student whose passions are into drawing, programming anything low-level, etc. with C and C++.
 
-## Medium:
-- C
-- C++
-- Game engines
-- OpenGL
-- Windows
+### Languages I use:
+C, C++, Java, Javascript, Go, Zig, R*st
